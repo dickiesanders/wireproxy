@@ -148,3 +148,4 @@ jobs:
         with:
           name: WireProxy_darwin_arm64
           path: release_darwin_arm64
+
